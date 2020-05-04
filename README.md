@@ -25,7 +25,7 @@ The currently used database is SQLite3, and this application will be deployed us
 
 ## Routes 
 
-***/login*** : In this route requests a registered email and password as body and generates a Json Web Token to create a session in the app
+***/login*** : this route requests a registered email and password as body and generates a Json Web Token to create a session in the app
 
 ***/profile/investidor*** : Requests all the fields to create an account as an investor, but the only obligatory ones are email, password and name.
 
