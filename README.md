@@ -2,7 +2,7 @@
 
 Back-end application for InvesTinder!
 
-InvesTinder is an application developed in JavaScript using ReactJS by João Gabriel Eler Mendes and Victor Lomba to compete in a Hackaton.
+InvesTinder is an application developed by João Gabriel Eler Mendes and Victor Lomba in JavaScript using ReactJS to compete in a Hackaton.
 
 This application lets investors connect easily with consultants or advisors, leting them match if they like each other's profile and then providing contact information.
 
