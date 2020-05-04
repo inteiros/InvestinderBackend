@@ -1,5 +1,3 @@
-# InvestinderBackend
-
 ![](https://raw.githubusercontent.com/JoaoEler/InvestinderFrontend/master/investinder/src/assets/logo.png)
 
 Back-end application for InvesTinder!
