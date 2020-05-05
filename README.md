@@ -10,7 +10,7 @@ InvesTinder is still on development, so many other features might be added later
 
 ## Usage
 
-After installing all dependencies with yarn or npm i
+After installing all dependencies with yarn or npm i, you can run the back-end with
 
 ```bash
 node src/index.js
