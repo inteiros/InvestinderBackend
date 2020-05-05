@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/JoaoEler/InvestinderFrontend/master/investinder/src/assets/logo.png)
+![](https://i.imgur.com/9jz2SKD.png)
 
 Back-end application for InvesTinder!
 
