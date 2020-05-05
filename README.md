@@ -25,24 +25,24 @@ The currently used database is SQLite3, and this application will be deployed us
 
 ## Routes 
 
-***/login*** : this route requests a registered email and password as body and generates a Json Web Token to create a session in the app
+***/login*** : this route requests a registered email and password as body and generates a Json Web Token to create a session in the app.
 
 ***/profile/investidor*** : Requests all the fields to create an account as an investor, but the only obligatory ones are email, password and name.
 
-***/profile/consultor*** : Creates an account as an consultant or as an advisor
+***/profile/consultor*** : Creates an account as an consultant or as an advisor.
 
-***/profile/investidor/list*** : Requests the logged investor ID and returns profiles that he didnt like yet.
+***/profile/investidor/list*** : Requests the logged investor ID and returns a profile that he didnt like yet.
 
-***/profile/consultor/list*** : Requests the logged consultant/advisor ID and returns profiles that he didnt like yet
+***/profile/consultor/list*** : Requests the logged consultant/advisor ID and returns a profile that he didnt like yet.
 
-***/profile/investidor/:TargetId/like*** : The logged investor likes the consultant/advisor that has the ID on the params
+***/profile/investidor/:TargetId/like*** : The logged investor likes the consultant/advisor that has the ID on the params.
 
-***/profile/consultor/:TargetId/like*** : Consultant/advisor likes the investor
+***/profile/consultor/:TargetId/like*** : Consultant/advisor likes the investor.
 
-***/profile/investidor/:TargetId/dislike*** : Investor disliking Consultant/advisors
+***/profile/investidor/:TargetId/dislike*** : Investor disliking Consultant/advisors.
 
-***/profile/consultor/:TargetId/dislike*** : Consultant/advisor disliking investors
+***/profile/consultor/:TargetId/dislike*** : Consultant/advisor disliking investors.
 
-***/profile/investidor/matches*** : List all the matches from an investor
+***/profile/investidor/matches*** : List all the matches from an investor.
 
-***/profile/consultor/matches*** : List all the matches from a consultant/advisor
+***/profile/consultor/matches*** : List all the matches from a consultant/advisor.
