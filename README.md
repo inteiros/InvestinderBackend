@@ -46,3 +46,7 @@ The currently used database is SQLite3, and this application will be deployed us
 ***/profile/investidor/matches*** : List all the matches from an investor.
 
 ***/profile/consultor/matches*** : List all the matches from a consultant/advisor.
+
+## Demo
+
+[InvesTinder presentation and demonstration (Pitch)](https://www.youtube.com/watch?v=hCjHWayLtmw "InvesTinder: Apresentação")
